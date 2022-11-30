@@ -1,15 +1,17 @@
 {
-	"editor.codeActionsOnSave": {
-	  "source.fixAll.eslint": true
-	},
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"editor.formatOnSave": true,
-	"eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
-	"typescript.tsdk": "node_modules/typescript/lib",
-	"cSpell.words": [
-		"fgito",
-		"firebaseapp",
-		"novasie",
-		"tailwindcss"
-	]
-  }
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": [
+    "fgito",
+    "firebaseapp",
+    "nativewind",
+    "novasie",
+    "recaptcha",
+    "tailwindcss"
+  ]
+}
