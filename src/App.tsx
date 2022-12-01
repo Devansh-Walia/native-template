@@ -3,7 +3,7 @@ import { StatusBar } from "expo-status-bar";
 import { useColorScheme } from "react-native";
 
 import { SafeAreaProvider } from "react-native-safe-area-context";
-import useCachedResources from "./hooks/useCachedResources";
+import useCachedResources from "./core/hooks/useCachedResources";
 import Navigation from "./navigation";
 
 function App() {

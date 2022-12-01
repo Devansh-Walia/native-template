@@ -6,12 +6,5 @@
   "editor.formatOnSave": true,
   "eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
   "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.words": [
-    "fgito",
-    "firebaseapp",
-    "nativewind",
-    "novasie",
-    "recaptcha",
-    "tailwindcss"
-  ]
+  "cSpell.words": ["fgito", "firebaseapp", "nativewind", "novasie", "radash", "recaptcha", "tailwindcss"]
 }
